@@ -1,5 +1,5 @@
 
-# **Dria-Node-Guide
+# Dria-Node-Guide
 
 # Pre-requirements
 
