@@ -1,12 +1,12 @@
 
-# **Dria-Compute-Node-Guide**
+# **Dria-Node-Guide
 
 # Pre-requirements
 
 Install Ollama from here (Choose ur OS)
 
 ```
-https://ollama.com/download/linux
+curl -fsSL https://ollama.com/install.sh | sh
 ```
 
 # Verify Installation
