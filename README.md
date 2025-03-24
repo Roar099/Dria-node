@@ -29,8 +29,11 @@ Linux / MacOS
 sudo dkn-compute-launcher referrals
 ``` 
 
-Use Up - down Keys to select "Enter referral code to be referred" and Enter The Refer Code-👇
+# Use Up - down Keys to select "Enter referral code to be referred" and Enter The Refer Code-👇
 
+```
+H4WSUoD8u3V7xeNnDc6n
+```
 
 # Start Your Node
 
